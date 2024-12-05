@@ -1,0 +1,12 @@
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\bin\Debug\test sql.exe.config
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\bin\Debug\test sql.exe
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\bin\Debug\test sql.pdb
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test sql.csproj.AssemblyReference.cache
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test_sql.Form1.resources
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test_sql.Properties.Resources.resources
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test sql.csproj.GenerateResource.cache
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test sql.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test sql.exe
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test sql.pdb
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test_sql.FormRegister.resources
+\\iscsi\profstud\kulikovia\Desktop\sql\test sql\test sql\obj\Debug\test_sql.FormLogin.resources
